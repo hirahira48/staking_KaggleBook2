@@ -1,1 +1,1 @@
-titanicのデータに対して、stacking
+
